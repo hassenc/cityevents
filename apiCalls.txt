@@ -1,0 +1,6 @@
+http://www.citypulse.io/api/event/GetEvents?startTime=2015-09-05T08:53:46.807Z&startEndTime=2015-09-12T08:53:46.807Z&nwLat=33.71159088315005&nwLong=-117.98524084707289&seLat=33.61900643223201&seLong=-117.75011859473271&categoryString=19,77,90,7,80,89,112,113,145,146,&skip=0&take=100&mapZoom=11.92688384&guid=null
+
+http://www.citypulse.io/api/event/GetEvents?startTime=2015-09-05T09:00:18.062Z&startEndTime=2015-09-12T09:00:18.062Z&nwLat=34.07283468507801&nwLong=-118.3993030364015&seLat=33.77427757434047&seLong=-117.95229681081557&categoryString=19,77,90,7,80,89,112,113,145,146,&skip=0&take=100&mapZoom=11&guid=null
+
+http://www.citypulse.io/api/event/GetEvents?startTime=2015-09-05T09:09:07.638Z&startEndTime=2015-09-12T09:09:07.638Z&nwLat=40.81538085107934&nwLong=-74.14212817710876&seLat=40.66086032810895&seLong=-73.69512195152282&categoryString=19,77,90,7,80,89,112,113,145,146,&skip=100&take=100&mapZoom=11&guid=47f1f28c-b855-4566-8da2-0151052209ad
+
